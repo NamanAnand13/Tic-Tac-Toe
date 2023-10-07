@@ -33,7 +33,7 @@ You can check out a live demo of the Tic Tac Toe Game here: [Live Demo](https://
 
 To run the Tic Tac Toe Game locally, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/tic-tac-toe-game.git`
+1. Clone the repository to your local machine: `git clone https://github.com/NamanAnand13/Tic-Tac-Toe.git`
 
 2. Navigate to the project directory: `cd tic-tac-toe-game`
 
