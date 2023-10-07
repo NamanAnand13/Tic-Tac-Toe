@@ -2,7 +2,7 @@
 
 Welcome to the Tic Tac Toe Game project! This simple web-based game allows two players to play the classic game of Tic Tac Toe (also known as Noughts and Crosses) in their web browsers. The project is built using HTML, CSS, and JavaScript.
 
-![Tic Tac Toe Screenshot](![screenshot1](image.png))
+![Tic Tac Toe Screenshot](image.png)
 
 ## Table of Contents
 
@@ -28,8 +28,6 @@ Tic Tac Toe is a well-known two-player game where the objective is to align thre
 ## Demo
 
 You can check out a live demo of the Tic Tac Toe Game here: [Live Demo](https://tic-tac-toe-naman-anand.netlify.app/)
-
-![Tic Tac Toe Demo](/Screen%20Recording%202023-10-07%20at%201.13.12 PM.mov)
 
 ## Getting Started
 
